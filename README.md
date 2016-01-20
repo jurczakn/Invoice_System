@@ -10,6 +10,8 @@ Current State: This is a demo.  There is no back-end.  All values are hard-coded
 Installation: Extract all .html files, js folder, and css folder into the same directory.  For a logical exploration of program,
 begin by opening login.html
 
+Hosted live version: http://web.engr.oregonstate.edu/~jurczakn/Invoice_System/
+
 Dependencies: This webapp is dependant on several libraries, including Material Desing Lite (https://github.com/google/material-design-lite.git),
 AngularJS (https://github.com/angular/angular.js.git), and Angular Material (https://github.com/angular/material.git).  All are accessed
 through hosted links.

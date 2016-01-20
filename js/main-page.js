@@ -50,17 +50,17 @@ var app = angular.module('MyApp', []);
       total: '$1,254.72'
     }, {
       number: '1234568',
-      customer: 'SteelBrick',
+      customer: 'SalesForce1',
       date: 'Jan 19, 2016',
       total: '$234.98'
     }, {
       number: '1234569',
-      customer: 'SteelBrick',
+      customer: 'Birst',
       date: 'Jan 16, 2016',
       total: '$25,097.19'
     }, {
       number: '1234570',
-      customer: 'SteelBrick',
+      customer: 'BlueCat',
       date: 'Dec 29, 2015',
       total: '$23.09'
     }];

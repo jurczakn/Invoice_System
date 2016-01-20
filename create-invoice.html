@@ -87,7 +87,7 @@
                 </td>
                 <td>{{product.name}}</td>
                 <td>
-                  <input required class="quantities" type="number" name="quantity" step=.01 min=0 style="width:50px;" ng-model="product.quantity" value="1" ng-change="getTotal()">
+                  <input required class="quantities" type="number" name="quantity" step=1 min=0 style="width:50px;" ng-model="product.quantity" value=1 ng-change="getTotal()">
                 </td>
                 <td>
                   <input required class="prices" type="number" name="price" step=.01 min=0 style="width:50px;" ng-model="product.price" ng-change="getTotal()">

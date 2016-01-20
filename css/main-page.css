@@ -1,0 +1,38 @@
+#icard {
+  width: 100%;
+  height:100%;
+  overflow: auto;
+}
+
+#invoice-table {
+  display:none;
+  float:right;
+  align-items: center;
+}
+#products-table {
+  display:none;
+  float:right;
+  align-items: center;
+}
+#invoices-card {
+  margin-top:40px;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  width: 75%;
+  justify-content: center;
+}
+#invoices-area {
+  width: auto;
+  float: top;
+  display:inline;
+}
+#edit-invoice {
+  float: right;
+}
+#edit-product {
+  float: right;
+}
+#logout-button {
+  float: right;
+}

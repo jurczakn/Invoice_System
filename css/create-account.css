@@ -1,0 +1,13 @@
+
+.login-card {
+  align-items: center;
+  justify-content: center;
+}
+
+.mdl-card__title {
+  width: 100%;
+}
+
+input {
+  color: #000000;
+}

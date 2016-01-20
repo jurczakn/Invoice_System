@@ -1,0 +1,15 @@
+
+.login-card {
+  align-items: center;
+  justify-content: center;
+}
+
+.mdl-card__title {
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.mdl-card__title-text {
+  text-align: center;
+}

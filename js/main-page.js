@@ -79,6 +79,8 @@ document.getElementById("table-toggle").onclick = function(e) {
   } else {
     document.getElementById("invoice-table").style.display = "table";
     document.getElementById("invoice-table").style.float = "none";
+    document.getElementById("products-table").style.display = "none";
+    document.getElementById("products-table").style.float = "right";
   }
 }
 
@@ -89,9 +91,10 @@ document.getElementById("products-table-toggle").onclick = function(e) {
   } else {
     document.getElementById("products-table").style.display = "table";
     document.getElementById("products-table").style.float = "none";
+    document.getElementById("invoice-table").style.display = "none";
+    document.getElementById("invoice-table").style.float = "right";
   }
 }
-
 /**
 * Header Checkbox Functionality
 */
